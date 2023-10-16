@@ -31,7 +31,6 @@
 ---
 <div align="left">
  📊 My Stats :
-  <br>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tomas-Spolitini&theme=tokyonight-duo)](https://git.io/streak-stats)
 </div>
