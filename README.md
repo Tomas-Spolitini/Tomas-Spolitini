@@ -32,9 +32,9 @@
 <div align="left">
  📊 My Stats :
   
+ <br>
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tomas-Spolitini&theme=tokyonight-duo)](https://git.io/streak-stats)
-</div>
-<div align="right">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Spolitini&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
